@@ -7,5 +7,15 @@ Download fix mesa-20.1.5_by_grigorii_v3 not problem i386 dependency .tar.xz http
 
 2) sudo tar xvpf mesa-20.1.5_by_grigorii_v3.tar.xz -C /
 
+Terminal run check version command:
+
+$ glxinfo
+
+Reboot enjoy test wayland 8K https://www.youtube.com/watch?v=gYO1uk7vIcc если конечно оператор не жадный уже 8K даже не в иксовой сессии
+
+Драйвер был получен в моей специальной системе продемонстрирована она тут https://t.me/java_8_oracle_X64_Griggorii/2 в отличии от предыдущего имеет меньший размер ну естественно потому что на видео показано что у меня система модифицированная , а gcc я ссыльно перебросил с 9.30 на 10 так же как и llvm https://github.com/Griggorii/llvm-10-tools
+
+Griggorii@gmail.com
+
 
 
