@@ -5,5 +5,7 @@ graphics , mesa , 20.1.5 , support , x86_64 , gallium-pipe , OpenCL , d3d , nine
 
 Download fix mesa-20.1.5_by_grigorii_v3 not problem i386 dependency .tar.xz https://github.com/Griggorii/mesa-20.1.5_v3_ubuntu-19.04-20.04-20.10_X86_64_graphics/releases/tag/mesa-20.1.5 mesa-20.1.5_by_grigorii_v3.tar.xz
 
+2) sudo tar xvpf mesa-20.1.5_by_grigorii_v3.tar.xz -C /
+
 
 
