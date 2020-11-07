@@ -7,6 +7,8 @@ Download fix mesa-20.1.5_by_grigorii_v3 not problem i386 dependency .tar.xz http
 
 2) sudo tar xvpf mesa-20.1.5_by_grigorii_v3.tar.xz -C /
 
+Напишите исправил ли данный видео драйвер прокрутку колесом мыши в браузере которая ранее гуляла сама по себе , помог ли этот драйвер устаранить или нет.
+
 Terminal run check version command:
 
 $ glxinfo
